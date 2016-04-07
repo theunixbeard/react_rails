@@ -14,6 +14,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'jquery-rails'
 gem 'slim-rails', '~> 3.0.1'
 gem 'react-rails', '~> 1.6.0'
+gem 'sprockets-es6'
 # REMOVE: gem 'coffee-rails', '~> 4.1.0'
 # REMOVE: gem 'turbolinks'
 
