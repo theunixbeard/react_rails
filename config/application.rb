@@ -5,10 +5,12 @@ require "rails"
 require "active_model/railtie"
 require "active_job/railtie"
 require "active_record/railtie"
+puts "wtf wtf wtf"
 require "action_controller/railtie"
 require "action_mailer/railtie"
 require "action_view/railtie"
 require "sprockets/railtie"
+puts "oh n"
 # require "rails/test_unit/railtie"
 require 'sprockets/es6'
 
